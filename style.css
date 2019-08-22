@@ -10,7 +10,7 @@ header {
   background: #ebebeb;
   text-align: center;
   padding: 30px;
-  margin: 10px 0 10px 0;
+  margin: 10px 0;
 }
 nav {
   background: #ebebeb;
@@ -26,23 +26,23 @@ section {
   float: left;
   width: 495px;
   padding-top: 25px;
+  margin-bottom: 20px;
 }
 aside {
   background: #ebebeb;
   text-align: center;
   float: right;
-  width: 45%;
+  width: 445px;
   height: 237px;
   padding-top: 25px;
+  margin-bottom: 20px;
 }
 footer {
   background: #ebebeb;
   text-align: center;
-  /* clear: both; */
-  width: 960px;
-  position: absolute;
-  top: 490px;
-  padding: 25px 0;
+  clear: both;
+  padding: 30px;
+  margin-top: 10px;
 }
 article {
   background: #777;
